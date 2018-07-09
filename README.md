@@ -25,4 +25,4 @@ Follow the following links:
 
 ## License
 
-Copyright (c) 2017-18 [Avinash Pandey](http://mrpandey.com). Licensed under [MIT License](https://github.com/mrpandey/omnibox/blob/master/LICENSE).
+Copyright (c) 2017-18 [Avinash Pandey](http://mrpandey.com). Licensed under [MIT License](https://github.com/mrpandey/omnibang/blob/master/LICENSE).
