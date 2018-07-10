@@ -13,6 +13,16 @@ It is based on [bangs](https://duckduckgo.com/bang) provided by DuckDuckGo and w
 
 ![Pictorial description of extension](/img/omnibang-banner-1280x800.png)
 
+| Some | Popular | Bangs|
+| --- | --- | --- |
+| GitHub: `gh` | Stack Overflow: `so` | Stack Exchange: `se` |
+| Mozilla Developer Network: `mdn` | MS Developer Network: `msdn` | Codepen: `cpen` |
+| Reddit: `r` | Quora: `q` | Amazon: `a` |
+| Wikipedia: `w` | Medium: `med` | Bing: `b` |
+| Google: `g` | DuckDuckGo: `ddg` | Yahoo: `y` |
+| Google Maps: `maps` | Facebook: `fb` | Twitter: `tw` |
+| Spotify: `spt` | SoundCloud: `sc` | YouTube: `yt` |
+
 See the complete list of bangs [here](https://duckduckgo.com/bang).
 
 ## Installation
