@@ -11,7 +11,21 @@ It is based on [bangs](https://duckduckgo.com/bang) provided by DuckDuckGo and w
 - DuckDuckGo follows the format `!bang search-term`, whereas Omnibang follows `! bang search-term`.
 - Omnibang works even if DuckDuckGo isn't your default search engine.
 
+FAQ: Chrome and Firefox already provide custom search engines. What's different here?
+
+- Browser custom search works when the website you want to search is already present in your history and cache.
+
+ Bangs works independent of history and cache.
+
+- The keywords of custom search by default are the complete domain names. You can shorten them, but its manual work.
+
+ DuckDuckGo provides 100s of predefined short-codes (bangs) which are easy to remember. Some bangs are listed at the bottom of this page.
+
+<br>
+
 ![Pictorial description of extension](/img/omnibang-banner-1280x800.png)
+
+<br>
 
 | Some | Popular | Bangs|
 | --- | --- | --- |
