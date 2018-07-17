@@ -4,7 +4,7 @@
 
 # Omnibang
 
-A very simple Chrome/Firefox extension that enables user to search many websites directly from the address bar.
+A very simple Chrome/Firefox extension that enables a user to search websites directly from the address bar.
 
 It is based on [bangs](https://duckduckgo.com/bang) provided by DuckDuckGo and works in a similar way. The two main differences are:
 
@@ -13,9 +13,8 @@ It is based on [bangs](https://duckduckgo.com/bang) provided by DuckDuckGo and w
 
 FAQ: Chrome and Firefox already provide custom search engines. What's different here?
 
-- Browser custom search works when the website you want to search is already present in your history and cache.
-
-  Bangs works independent of history and cache.
+- Browser custom search works when the website you want to search is already present in your history and cache.   
+Bangs works independent of history and cache.
 
 - The keywords of custom search by default are the complete domain names. You can shorten them, but its manual work.
 
@@ -41,10 +40,10 @@ See the complete list of bangs [here](https://duckduckgo.com/bang).
 
 ## Installation
 
-Follow the following links:
+Follow these links:
 
-- [Omnibang - Chrome Web Store](https://chrome.google.com/webstore/detail/blmikombemiddkippgjijjgpdofliogo)
-- [Omnibang -- Add-ons for Firefox](https://addons.mozilla.org/en-GB/firefox/addon/omnibang/)
+- [Omnibang for Chrome](https://chrome.google.com/webstore/detail/blmikombemiddkippgjijjgpdofliogo)
+- [Omnibang for Firefox](https://addons.mozilla.org/en-GB/firefox/addon/omnibang/)
 
 
 ## License
