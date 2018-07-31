@@ -45,6 +45,10 @@ Follow these links:
 - [Omnibang for Chrome](https://chrome.google.com/webstore/detail/blmikombemiddkippgjijjgpdofliogo)
 - [Omnibang for Firefox](https://addons.mozilla.org/en-GB/firefox/addon/omnibang/)
 
+## To-Do List
+
+- [ ] Port to Opera
+- [ ] Port to Vivaldi
 
 ## License
 
