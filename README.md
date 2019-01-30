@@ -52,4 +52,4 @@ Follow these links:
 
 ## License
 
-Copyright (c) 2018 [Avinash Pandey](http://mrpandey.com). Licensed under [MIT License](https://github.com/mrpandey/omnibang/blob/master/LICENSE).
+Copyright (c) 2018-19 [Avinash Pandey](http://mrpandey.com). Licensed under [MIT License](https://github.com/mrpandey/omnibang/blob/master/LICENSE).
