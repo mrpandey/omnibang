@@ -2,6 +2,8 @@
   <img src="img/omnibang-white-256.png" style="max-width:100%;">
 </p>
 
+Note: This is no longer maintained. But feel free to use it if it works in your browser. I don't maintain it anymore because Vivaldi is now my main browser, where I can have a search bar next to the URL. URL bar has Google as the default search, and the search bar has DDG as the default. So I can now easily access the bangs without using this extension.
+
 # Omnibang
 
 A very simple Chrome/Firefox extension that enables a user to search websites directly from the address bar.
